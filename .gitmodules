@@ -1,0 +1,6 @@
+[submodule "docs"]
+	path = docs
+	url = https://github.com/Novel-SekAI/docs.git
+[submodule "design"]
+	path = design
+	url = https://github.com/Novel-SekAI/design.git
