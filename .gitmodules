@@ -4,3 +4,12 @@
 [submodule "design"]
 	path = design
 	url = https://github.com/Novel-SekAI/design.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Novel-SekAI/backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Novel-SekAI/frontend.git
+[submodule "ai"]
+	path = ai
+	url = https://github.com/Novel-SekAI/ai.git
